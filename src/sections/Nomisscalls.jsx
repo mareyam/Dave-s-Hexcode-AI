@@ -60,9 +60,9 @@ export default function Nomisscalls() {
                         </h2>
 
                         <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                            MissNoCalls wins this battle hands down. It's more flexible, budget-friendly, and global than Hexcode AI.
-                            Whether you're a small company or a big enterprise, MissNoCalls is ready to help you grow. Plus, its
-                            commitment to customer satisfaction ensures you'll always have the support you need.
+                            MissNoCalls wins this battle hands down. It&apos;s more flexible, budget-friendly, and global than Hexcode AI.
+                            Whether you&apos;re a small company or a big enterprise, MissNoCalls is ready to help you grow. Plus, its
+                            commitment to customer satisfaction ensures you&apos;ll always have the support you need.
                         </p>
 
                         <div className="bg-gray-50 rounded-xl p-6 mb-8">

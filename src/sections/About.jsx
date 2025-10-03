@@ -65,7 +65,7 @@ export default function About() {
                         About Hexcode AI
                     </h1>
                     <p className="text-xl text-gray-700">
-                        Learn about <span className="font-bold text-indigo-600">Hexcode AI's</span> story, mission, and background
+                        Learn about <span className="font-bold text-indigo-600">Hexcode AI&apos;s</span> story, mission, and background
                     </p>
                 </div>
 
