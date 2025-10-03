@@ -1,11 +1,11 @@
-import logo from "@/assets/logosaas.png";
-import SocialX from "@/assets/social-x.svg";
-import SocialInsta from "@/assets/social-insta.svg";
-import SocialLinkedIn from "@/assets/social-linkedin.svg";
-import SocialPin from "@/assets/social-pin.svg";
-import SocialYoutube from "@/assets/social-youtube.svg";
-import Image from "next/image";
-import Link from "next/link";
+import logo from '@/assets/logosaas.png';
+import SocialX from '@/assets/social-x.svg';
+import SocialInsta from '@/assets/social-insta.svg';
+import SocialLinkedIn from '@/assets/social-linkedin.svg';
+import SocialPin from '@/assets/social-pin.svg';
+import SocialYoutube from '@/assets/social-youtube.svg';
+import Image from 'next/image';
+import Link from 'next/link';
 
 export const Footer = () => {
   return (
@@ -29,8 +29,15 @@ export const Footer = () => {
           <SocialPin />
           <SocialYoutube />
         </div>
-        <p className="mt-6">&copy; 2024 Your Company, Inc. All rights reserved.
-          <br /><Link className="hover:text-white transition-all" href="https://github.com/MiladJoodi/Light-Saas-Landing-Page">Make with ❤️ by Joodi</Link>
+        <p className="mt-6">
+          &copy; 2024 Your Company, Inc. All rights reserved.
+          <br />
+          <Link
+            className="hover:text-white transition-all"
+            href="https:zama.framer.ai"
+          >
+            Make with ❤️ by Zama
+          </Link>
         </p>
       </div>
     </footer>
