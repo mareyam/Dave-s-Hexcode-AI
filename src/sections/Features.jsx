@@ -72,10 +72,10 @@ export default function Features() {
                         <span className="text-4xl">🤖</span>
                     </div>
                     <h1 className="text-5xl md:text-6xl font-bold text-black mb-6">
-                        Hexcode AI Features & Offerings
+                        LeadLocker Features & Offerings
                     </h1>
                     <p className="text-xl text-gray-800 max-w-3xl mx-auto">
-                        Discover the suite of machine learning capabilities available with <span className="font-bold text-indigo-400">Hexcode AI</span>:
+                        Discover the suite of machine learning capabilities available with <span className="font-bold text-indigo-400">LeadLocker</span>:
                     </p>
                 </div>
 
@@ -152,7 +152,7 @@ export default function Features() {
                         Ready to Transform Your Sales Process?
                     </h3>
                     <p className="text-xl text-indigo-100 mb-8">
-                        Experience the power of AI-driven sales automation with Hexcode AI
+                        Experience the power of AI-driven sales automation with LeadLocker
                     </p>
                     <button className="bg-white text-indigo-600 font-bold px-8 py-4 rounded-xl hover:bg-indigo-50 hover:scale-105 transition-all duration-300 shadow-lg">
                         Get Started Today

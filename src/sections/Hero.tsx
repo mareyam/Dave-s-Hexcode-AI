@@ -36,7 +36,7 @@ export const Hero = () => {
           <div className="md:w-[478px]">
             {/* <div className="tag">Version 2.0 is here</div> */}
             <h1 className="text-5xl md:text-7xl font-bold tracking-tigher bg-gradient-to-b from-black to-[#001e80] text-transparent bg-clip-text mt-6">
-              Hexcode AI
+              LeadLocker
             </h1>
             <p className="text-xl text-[#010d3e] tracking-tight mt-6">
               Supercharge Your Sales Pipeline with AI-Powered Inside Sales Reps

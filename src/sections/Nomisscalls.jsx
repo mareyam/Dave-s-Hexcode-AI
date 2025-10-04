@@ -16,13 +16,13 @@ export default function Nomisscalls() {
                             <span className="text-white text-2xl">⚡</span>
                         </div>
                         <h1 className="text-3xl md:text-4xl font-bold text-gray-900">
-                            Hexcode AI Alternative: Hexcode AI vs MissNoCalls in Epic Bot Battle
+                            LeadLocker Alternative: LeadLocker vs MissNoCalls in Epic Bot Battle
                         </h1>
                     </div>
 
                     <p className="text-center text-lg text-gray-700">
                         Examine other best options in the market and see how{' '}
-                        <span className="font-bold">Hexcode AI</span> compares with{' '}
+                        <span className="font-bold">LeadLocker</span> compares with{' '}
                         <a href="#" className="text-blue-600 hover:underline font-semibold">MissNoCalls</a>:
                     </p>
                 </div>
@@ -60,7 +60,7 @@ export default function Nomisscalls() {
                         </h2>
 
                         <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                            MissNoCalls wins this battle hands down. It&apos;s more flexible, budget-friendly, and global than Hexcode AI.
+                            MissNoCalls wins this battle hands down. It&apos;s more flexible, budget-friendly, and global than LeadLocker.
                             Whether you&apos;re a small company or a big enterprise, MissNoCalls is ready to help you grow. Plus, its
                             commitment to customer satisfaction ensures you&apos;ll always have the support you need.
                         </p>

@@ -79,10 +79,10 @@ export default function HexcodePricingPage() {
                 {/* Header */}
                 <div className="text-center mb-16">
                     <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-4">
-                        💲 Hexcode AI Pricing & Drawbacks
+                        💲 LeadLocker Pricing & Drawbacks
                     </h1>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                        Review the pricing plans for <span className="font-bold text-indigo-600">Hexcode AI</span> alongside a look at the potential drawbacks:
+                        Review the pricing plans for <span className="font-bold text-indigo-600">LeadLocker</span> alongside a look at the potential drawbacks:
                     </p>
                 </div>
 

@@ -62,10 +62,10 @@ export default function About() {
                         <span className="text-3xl">ℹ️</span>
                     </div>
                     <h1 className="text-5xl font-bold text-gray-900 mb-4">
-                        About Hexcode AI
+                        About LeadLocker
                     </h1>
                     <p className="text-xl text-gray-700">
-                        Learn about <span className="font-bold text-indigo-600">Hexcode AI&apos;s</span> story, mission, and background
+                        Learn about <span className="font-bold text-indigo-600">LeadLocker&apos;s</span> story, mission, and background
                     </p>
                 </div>
 
